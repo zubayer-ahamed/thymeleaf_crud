@@ -1,7 +1,7 @@
-# Spring Boot Starter Project
+# Spring Boot CRUD Project
 1.Used technology --> Thymeleaf, Bootstrap, Spring Boot
 
-# Images 
+# Display Images 
 Home Page
 ![Home_page](https://image.prntscr.com/image/rMtNZRRES5qccpR8f1ksyw.png)
 
